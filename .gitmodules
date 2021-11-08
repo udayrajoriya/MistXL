@@ -1,0 +1,3 @@
+[submodule "MistXL/vendor/spdlog"]
+	path = MistXL/vendor/spdlog
+	url = https://github.com/gabime/spdlog
